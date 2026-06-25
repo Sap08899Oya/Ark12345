@@ -1,1 +1,1 @@
-導航WayFinder-google
+WayFinder-google
